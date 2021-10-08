@@ -1,0 +1,72 @@
+HTTrack3.49-2 launched on Wed, 29 Sep 2021 22:25:24 at http://graphicfort.com/templates/plume/index-cleaning.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://graphicfort.com/templates/plume/index-cleaning.html -O "/Users/sodiqalase/websites/Plume" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:35:10	Error: 	"Not Found" (404) at link graphicfort.com/templates/plume/1&loop=1&title=0&byline=0&portrait=0&api=1 (from graphicfort.com/templates/plume/index-corporate-2.html)
+00:35:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): graphicfort.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+00:36:00	Warning: 	HTML file (66277 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index.html
+00:36:30	Warning: 	HTML file (24358 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-app.html
+00:36:32	Warning: 	HTML file (57532 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-barber.html
+00:36:36	Warning: 	HTML file (53107 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-blog.html
+00:36:40	Warning: 	HTML file (25025 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-book.html
+00:36:43	Warning: 	HTML file (53724 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-cafe.html
+00:36:47	Warning: 	HTML file (78815 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-car-rental.html
+00:36:52	Warning: 	HTML file (58579 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-carpenter.html
+00:36:57	Warning: 	HTML file (49997 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-conference.html
+00:37:00	Warning: 	HTML file (59016 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-conference-1.html
+00:37:05	Warning: 	HTML file (64754 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-construction.html
+00:37:10	Warning: 	HTML file (44763 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-consulting.html
+00:37:14	Warning: 	HTML file (74165 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-corporate-1.html
+00:37:19	Warning: 	HTML file (60378 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-corporate-2.html
+00:37:24	Warning: 	HTML file (59864 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-corporate-3.html
+00:37:26	Warning: 	HTML file (72086 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-corporate-4.html
+00:37:32	Warning: 	HTML file (53173 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-dance.html
+00:37:36	Warning: 	HTML file (69156 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-dentist.html
+00:37:41	Warning: 	HTML file (56945 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-dive.html
+00:37:45	Warning: 	HTML file (64624 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-finance.html
+00:37:50	Warning: 	HTML file (55618 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-games.html
+00:37:54	Warning: 	HTML file (70742 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-gardener.html
+00:38:00	Warning: 	HTML file (64848 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-gym.html
+00:38:05	Warning: 	HTML file (93310 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-hosting.html
+00:38:12	Warning: 	HTML file (60215 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-hotel.html
+00:38:17	Warning: 	HTML file (34601 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-landing-page-1.html
+00:38:20	Warning: 	HTML file (24636 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-landing-page-2.html
+00:38:23	Warning: 	HTML file (32772 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-landing-page-3.html
+00:38:26	Warning: 	HTML file (74742 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-lawyer.html
+00:38:32	Warning: 	HTML file (68810 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-logistics.html
+00:38:37	Warning: 	HTML file (65443 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-mechanic.html
+00:38:42	Warning: 	HTML file (68938 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-medical.html
+00:38:46	Warning: 	HTML file (52529 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-moving.html
+00:38:51	Warning: 	HTML file (55733 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-music.html
+00:38:55	Warning: 	HTML file (50050 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-pets.html
+00:38:59	Warning: 	HTML file (47040 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-photography.html
+00:39:01	Warning: 	HTML file (51042 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-plumber.html
+00:39:06	Warning: 	HTML file (42318 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-portfolio.html
+00:39:08	Warning: 	HTML file (71413 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-real-estate.html
+00:39:13	Warning: 	HTML file (46816 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-restaurant.html
+00:39:16	Warning: 	HTML file (58156 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-safari.html
+00:39:21	Warning: 	HTML file (67752 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-school.html
+00:39:26	Warning: 	HTML file (62767 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-shop.html
+00:39:31	Warning: 	HTML file (42352 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-single-product.html
+00:39:34	Warning: 	HTML file (51527 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-spa.html
+00:39:38	Warning: 	HTML file (53705 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-taxi.html
+00:39:42	Warning: 	HTML file (59432 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-travel.html
+00:39:47	Warning: 	HTML file (28616 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-web-service.html
+00:39:50	Warning: 	HTML file (27544 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-wedding.html
+00:39:52	Warning: 	HTML file (50896 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/index-yoga.html
+00:40:13	Warning: 	HTML file (5626 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/lost-username.html
+00:40:15	Warning: 	Retry after error -4 (No data (connection closed)) at link graphicfort.com/templates/plume/images/shop/002.jpg (from graphicfort.com/templates/plume/shop-single-right-sidebar.html)
+00:40:15	Warning: 	Retry after error -4 (No data (connection closed)) at link graphicfort.com/templates/plume/images/shop/thumbs/navigation/001.jpg (from graphicfort.com/templates/plume/shop-single-right-sidebar.html)
+00:40:16	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://plume-1.disqus.com/embed.js (from graphicfort.com/templates/plume/blog-center-single-quote.html)
+00:40:17	Warning: 	HTML file (45889 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/elements-page-preloader-2.html
+00:40:25	Warning: 	HTML file (28631 bytes) retransferred due to lack of cache: graphicfort.com/templates/plume/1&loop=1&title=0&byline=0&portrait=0&api=1
+00:40:30	Error: 	"Not Found" (404) at link graphicfort.com/templates/plume/1&loop=1&title=0&byline=0&portrait=0&api=1 (from graphicfort.com/templates/plume/index-corporate-2.html)
+00:40:44	Warning: 	File not parsed, looks like binary: graphicfort.com/templates/plume/js/plugins/slider-revolution/css/openhand.cur
+00:40:44	Warning: 	File not parsed, looks like binary: graphicfort.com/templates/plume/js/plugins/slider-revolution/css/closedhand.cur
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 hours 15 minutes 26 seconds : 1467 links scanned, 2286 files written (259271227 bytes overall) [140699043 bytes received at 17314 bytes/sec], 28728451 bytes transferred using HTTP compression in 400 files, ratio 14%, 1.5 requests per connection
+(2 errors, 59 warnings, 0 messages)
